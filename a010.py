@@ -29,7 +29,7 @@ while x < len(l):
 	if x != len(l):
 		print(" * ", end="")
 
-##########
+#########
 
 # n = int(input())
 # tmp = []
