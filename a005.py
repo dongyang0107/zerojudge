@@ -20,7 +20,7 @@ for i in range(n):
 	# 不會包含列表的方括號和逗號，並使用預設的空格作為分隔符
 	print(*a)
 
-##########
+#########
 
 # n = int(input())
 # for i in range(n):
